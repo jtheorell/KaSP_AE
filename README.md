@@ -22,3 +22,6 @@ b.	if individuals with autoantibodies are detected, CyTOF analysis of their immu
 
 9. The clinical phenotypes of any antibody-positive patient(s) will be compared to the clinical phenotype of the other patients in the cohort, and comparisons will also be made to previously assembled data for NMDA receptor encephalitis patients, published in: [Al-Diwani *et al*, Lancet Psychiatry, 2019](https://www.thelancet.com/journals/lanpsy/article/PIIS2215-0366(19)30001-X/fulltext).
 
+
+UPDATE 2020-03-11
+The screening phase is now concluded and it has been decided to go on with an analysis of an associated CyTOF dataset. Due to previous analyses of the CyTOF dataset, it will not be possible to keep the blinding during the CyTOF analysis phase so the labels are now being broken. 
