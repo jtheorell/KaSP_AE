@@ -25,3 +25,7 @@ b.	if individuals with autoantibodies are detected, CyTOF analysis of their immu
 
 UPDATE 2020-03-11
 The screening phase is now concluded and it has been decided to go on with an analysis of an associated CyTOF dataset. Due to previous analyses of the CyTOF dataset, it will not be possible to keep the blinding during the CyTOF analysis phase so the labels are now being broken. 
+
+UPDATE 2020-09-11
+The CyTOF analyses needed to be exluded from the study due to several limitation in the acquisition of the data. 
+The study is currently being made ready for submission. 
